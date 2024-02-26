@@ -1,0 +1,9 @@
+
+
+AllPlots_PointsXYZ
+Conversion of All Plots.kmz to a layer (.lyrx)
+
+AllPlots_PointsXYZ
+Disabled the Z attribute
+Corrected row 30
+Removed unrelevant column

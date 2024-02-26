@@ -1,0 +1,174 @@
+point_id,site_name,country_name,country_code,lat,long,alt,topographic_position
+21_COD_BUG_SL1,BUGULI,Democratic Republic of Congo,cod,-2.55298,28.5867,1918.25,slope
+21_COD_BUH_SL1,Buhenge,Democratic Republic of Congo,cod,-2.20479,28.83318,1586,slope
+21_COD_KAL_SL1,Kalambo,Democratic Republic of Congo,cod,-2.39301,28.84111,1526,slope
+21_COD_KAMA_SL1,KAMAHIRYE,Democratic Republic of Congo,cod,-2.49908,28.6582,2308.5,slope
+21_COD_KAMB_SL1,Kambogo,Democratic Republic of Congo,cod,-2.19958,28.83151,1655.25,slope
+21_COD_KAMB_SL2,KAMBOGO,Democratic Republic of Congo,cod,-2.20155,28.83591,1582,slope
+21_COD_KAS_SL1,KASHEKE,Democratic Republic of Congo,cod,-2.1465,28.85024,1619,slope
+21_COD_KAS_SL2,KASHEKE,Democratic Republic of Congo,cod,-2.15578,28.85417,1516,slope
+21_COD_KMN_SL1,KAMUNYERERE,Democratic Republic of Congo,cod,-2.20176,28.83218,1630,slope
+21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,profile
+21_cod_ikul_profileB,Ikulubi,Democratic Republic of Congo,cod,-2.614913,28.704795,1705,profile
+21_uga_bok_SL,Bokongo,Uganda,uga,0.55391,30.14228,1747,slope
+21_uga_bug_SL,Bugaya,Uganda,uga,0.54993,30.14695,1632,slope
+21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,profile
+21_uga_kaj_SL,Kajuma-Itara,Uganda,uga,0.837,30.501111,1265,slope
+21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,valley
+21_uga_kik_SL,Kikonzo Cell,Uganda,uga,0.55514,30.13944,1685,slope
+21_uga_kik_p1,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,valley
+21_uga_kik_p2,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,valley
+21_uga_mab_SL,Mabondo-Bokongo,Uganda,uga,0.55093,30.13986,1738,slope
+21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,profile
+21_uga_mita_SL,Mitandi,Uganda,uga,0.593444,30.152167,1764,slope
+21_uga_mita_p1,Mitandi,Uganda,uga,0.5955,30.151778,1757,valley
+21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,plateau
+21_uga_muk2_SL,Mukonomura,Uganda,uga,0.55575,30.80429,1253,slope
+21_uga_muk2_p1,Mukonomura,Uganda,uga,0.55549,30.80434,1247,valley
+21_uga_muk2_p2,Mukonomura,Uganda,uga,0.55551,30.80419,1245,valley
+21_uga_muk_SL,Mukonomura,Uganda,uga,0.55847,30.80452,1265,slope
+21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,valley
+21_uga_muk_p2,Mukonomura,Uganda,uga,0.55887,30.8044,1252,valley
+21_uga_ntu_SL,Ntuntu,Uganda,uga,0.83641,30.51143,1274,slope
+21_uga_ntu_p1,Ntuntu,Uganda,uga,0.835972,30.51175,1274,valley
+21_uga_nyan_SL,Nyantunga A,Uganda,uga,0.596337,30.643281,1343,slope
+21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,valley
+21_uga_rus_SL,Ruseke,Uganda,uga,0.53822,30.14163,1621,slope
+21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,valley
+22_COD_BUGU_SL2,BUGULI,Democratic Republic of Congo,cod,-2.55606,28.58464,1932,slope
+22_COD_BUGU_SL3,BUGULI,Democratic Republic of Congo,cod,-2.55503,28.58547,1928,slope
+22_COD_BUGU_SL4,BUGULI,Democratic Republic of Congo,cod,-2.55312,28.58575,1936,slope
+22_COD_BURW_SL1,BURWAGA,Democratic Republic of Congo,cod,-2.65001,28.71309,1825,slope
+22_COD_BUSH_SL1,BUSHWIRA,Democratic Republic of Congo,cod,-2.45394,28.77906,1828,slope
+22_COD_BUSH_SL2,BUSHWIRA,Democratic Republic of Congo,cod,-2.44987,28.78131,1878,slope
+22_COD_BUSH_SL3,BUSHWIRA,Democratic Republic of Congo,cod,-2.44465,28.78637,1882,slope
+22_COD_BUSH_SL4,BUSHWIRA,Democratic Republic of Congo,cod,-2.44672,28.77928,1907,slope
+22_COD_CAMA_SL1,CAMA,Democratic Republic of Congo,cod,-2.58003,28.71329,1830,slope
+22_COD_CIFU_SL1,CIFUMA,Democratic Republic of Congo,cod,-2.3923,28.83971,1554,slope
+22_COD_CIHU_SL1,CIHUMBA,Democratic Republic of Congo,cod,-2.57435,28.71951,1790,slope
+22_COD_CIHU_SL2,CIHUMBA,Democratic Republic of Congo,cod,-2.57558,28.7177,1789,slope
+22_COD_KABU_SL1,KABUSHAMBA(BIOSADEC),Democratic Republic of Congo,cod,-2.55598,28.79441,2097,slope
+22_COD_KABU_SL2,KABUSHAMBA(BIOSADEC),Democratic Republic of Congo,cod,-2.55514,28.79528,2091,slope
+22_COD_KAFU_SL1,KAFUKENDE,Democratic Republic of Congo,cod,-2.44771,28.79455,1755,slope
+22_COD_KAHI_SL1,KAHIMBARI,Democratic Republic of Congo,cod,-2.59847,28.722,1753,slope
+22_COD_KAHI_SL2,KAHIMBARI,Democratic Republic of Congo,cod,-2.5983,28.72371,1790,slope
+22_COD_KALA_SL2,KALAMBO,Democratic Republic of Congo,cod,-2.39272,28.84385,1549,slope
+22_COD_KALA_SL3,KALAMBO,Democratic Republic of Congo,cod,-2.39363,28.84159,1532,slope
+22_COD_KALI_SL1,KALIKO,Democratic Republic of Congo,cod,-2.55578,28.59719,1887,slope
+22_COD_KAMB_SL3,KAMBOGO,Democratic Republic of Congo,cod,-2.19854,28.83345,1690,slope
+22_COD_KAME_SL1,KAMEMBE,Democratic Republic of Congo,cod,-2.58472,28.71944,1721,slope
+22_COD_KAME_SL2,KAMEMBE,Democratic Republic of Congo,cod,-2.58687,28.721,1707,slope
+22_COD_KAME_SL3,KAMEMBE,Democratic Republic of Congo,cod,-2.5828,28.72236,1746,slope
+22_COD_KARO_SL1,KARONGO,Democratic Republic of Congo,cod,-2.58522,28.71374,1724,slope
+22_COD_KASH_SL1,KASHUNGURI 4,Democratic Republic of Congo,cod,-2.40174,28.84243,1501,slope
+22_COD_KASH_SL3,KASHEKE,Democratic Republic of Congo,cod,-2.1582,28.85073,1558,slope
+22_COD_KASH_SL4,KASHEKE,Democratic Republic of Congo,cod,-2.15295,28.85561,1495,slope
+22_COD_KONG_SL1,KONGE,Democratic Republic of Congo,cod,-2.38575,28.78771,1634,slope
+22_COD_KONG_SL2,KONGE,Democratic Republic of Congo,cod,-2.38667,28.78736,1656,slope
+22_COD_LUKA_SL1,LUKANANDA,Democratic Republic of Congo,cod,-2.34281,28.76354,1892,slope
+22_COD_LUKA_SL2,LUKANANDA,Democratic Republic of Congo,cod,-2.34801,28.76806,1839,slope
+22_COD_LUKA_SL3,LUKANANDA,Democratic Republic of Congo,cod,-2.34867,28.77489,1752,slope
+22_COD_LUKA_SL4,LUKANANDA,Democratic Republic of Congo,cod,-2.34452,28.7609,1909,slope
+22_COD_LULE_SL1,LULENGA,Democratic Republic of Congo,cod,-2.3466,28.7754,1775,slope
+22_COD_LULE_SL2,LULENGA,Democratic Republic of Congo,cod,-2.34383,28.76821,1877,slope
+22_COD_MWIS_SL1,MWISHENGE,Democratic Republic of Congo,cod,-2.44731,28.80394,1725,slope
+22_COD_NGUD_SL1,NGUDU,Democratic Republic of Congo,cod,-2.45419,28.7984,1719,slope
+22_COD_NTEV_SL1,NTEVU,Democratic Republic of Congo,cod,-2.45092,28.80287,1664,slope
+22_COD_SHON_SL1,SHONGA,Democratic Republic of Congo,cod,-2.43297,28.8012,1652,slope
+22_cod_ciro_p1,Cirojo,Democratic Republic of Congo,COD,-2.20249,28.84657,1515,valley
+22_cod_kaba_SL,Kabamba,Democratic Republic of Congo,COD,-2.19943,28.84606,1557,slope
+22_cod_kaba_p1,Kabamba,Democratic Republic of Congo,COD,-2.1995,28.84442,1470,valley
+22_cod_kala_p1,Kalambo Cifuma,Democratic Republic of Congo,COD,-2.39224,28.84256,1482,valley
+22_cod_kala_p2,Kalambo,Democratic Republic of Congo,COD,-2.4004,28.842817,1486,valley
+22_cod_kala_p3,Kalambo,Democratic Republic of Congo,COD,-2.39159,28.84261,1487,valley
+22_cod_kala_p4,Kalambo,Democratic Republic of Congo,COD,-2.390262,28.843058,1445,valley
+22_cod_kambo_p1,Kambogo,Democratic Republic of Congo,COD,-2.20316,28.83595,1528,valley
+22_cod_luka_p1,Lukananda,Democratic Republic of Congo,COD,-2.34439,28.75808,1828,valley
+22_cod_ndunda_SL1,Ndundazi,Democratic Republic of Congo,COD,-2.38736,28.84201,1367,slope
+22_uga_kigo_profile,Kigoyera,Uganda,UGA,0.85079,30.54551,1355,roadcut
+22_uga_kihu_p1,Kihuuna,Uganda,UGA,0.58128,30.84995,1250,valley
+22_uga_kihu_p2,Kihuuna,Uganda,UGA,0.57848,30.86117,1246,valley
+22_uga_kihu_p3,Kihuuna,Uganda,UGA,0.57556,30.8548,1238,valley
+22_uga_kihu_sl1,Kihuna,Uganda,UGA,0.58531,30.85573,1268,slope
+22_uga_kihu_sl2,Kihuna,Uganda,UGA,0.58742,30.8594,1229,slope
+22_uga_kihu_sl3,Kihuuna,Uganda,UGA,0.57841,30.86132,1253,slope
+22_uga_kihu_sl4,Kihuuna,Uganda,UGA,0.58145,30.84974,1238,slope
+22_uga_kihu_sl5,Kihuuna,Uganda,UGA,0.57521,30.85486,1251,slope
+22_uga_ntu_p1,Ntuntu,Uganda,UGA,0.84628,30.51143,1281,valley
+22_uga_ntu_p2,Ntuntu,Uganda,UGA,0.83724,30.50881,1270,valley
+22_uga_ntu_p3,Ntuntu,Uganda,UGA,0.84061,30.5079,1276,valley
+22_uga_ntu_p4,Ntuntu,Uganda,UGA,0.85014,30.51795,1312,valley
+22_uga_ntu_sl1,Ntuntu,Uganda,UGA,0.83495,30.5148,1281,slope
+22_uga_ntu_sl10,Ntuntu,Uganda,UGA,0.8407,30.50792,1289,slope
+22_uga_ntu_sl11,Ntuntu,Uganda,UGA,0.84047,30.5078,1285,slope
+22_uga_ntu_sl12,Ntuntu,Uganda,UGA,0.85012,30.51844,1356,slope
+22_uga_ntu_sl2,Ntuntu,Uganda,UGA,0.83538,30.51476,1307,slope
+22_uga_ntu_sl3,Ntuntu,Uganda,UGA,0.83643,30.5125,1291,slope
+22_uga_ntu_sl4,Ntuntu,Uganda,UGA,0.83629,30.50874,1276,slope
+22_uga_ntu_sl5,Ntuntu,Uganda,UGA,0.83747,30.50771,1279,slope
+22_uga_ntu_sl6,Ntuntu,Uganda,UGA,0.84724,30.50987,1362,slope
+22_uga_ntu_sl7,Ntuntu,Uganda,UGA,0.8465,30.51423,1313,slope
+22_uga_ntu_sl8,Ntuntu,Uganda,UGA,0.84798,30.51021,1387,slope
+22_uga_ntu_sl9,Ntuntu,Uganda,UGA,0.84679,30.51043,1332,slope
+22_uga_rwa_profile,Rwamahonde,Uganda,UGA,0.82595,30.52876,1365,roadcut
+22_uga_rwa_sl1,Ntuntu,Uganda,UGA,0.82547,30.52954,1385,slope
+22_uga_rwi_sl1,Rwibale,Uganda,UGA,0.54689,30.85239,1387,slope
+cod_kal1_p1,Kalambo,Democratic Republic of Congo,cod,-2.4,28.84269,1432,valley
+cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,valley
+cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,valley
+cod_kal1_p4,Kalambo,Democratic Republic of Congo,cod,-2.40046,28.84293,1468,valley
+cod_kal1_p5,Kalambo,Democratic Republic of Congo,cod,-2.40069,28.84302,1471,valley
+cod_kal1_p6,Kalambo,Democratic Republic of Congo,cod,-2.40089,28.84318,1471,valley
+cod_kal1_p7,Kalambo,Democratic Republic of Congo,cod,-2.40097,28.84339,1460,valley
+cod_kal1_slope,Kalambo,Democratic Republic of Congo,cod,-2.39935,28.84246,1492,slope
+cod_mud1_p1,Lukananda,Democratic Republic of Congo,cod,-2.34689,28.76169,1863,valley
+cod_mud1_p2,Lukananda,Democratic Republic of Congo,cod,-2.34703,28.76169,1861,valley
+cod_mud1_p3,Lukananda,Democratic Republic of Congo,cod,-2.34725,28.7618,1868,valley
+cod_mud2_p1,Lukananda,Democratic Republic of Congo,cod,-2.34795,28.76725,1828,valley
+cod_tchi1_p1,Tchibinda,Democratic Republic of Congo,cod,-2.32067,28.75897,2080,valley
+cod_tchi1_p2,Tchibinda,Democratic Republic of Congo,cod,-2.32079,28.75951,2083,valley
+cod_tchi1_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3208,28.75957,2080,valley
+cod_tchi1_p4,Tchibinda,Democratic Republic of Congo,cod,-2.32077,28.75977,2075,valley
+cod_tchi1_p5,Tchibinda,Democratic Republic of Congo,cod,-2.3209,28.76007,2074,valley
+cod_tchi1_p6,Tchibinda,Democratic Republic of Congo,cod,-2.32101,28.76044,2062,valley
+cod_tchi1_p7,Tchibinda,Democratic Republic of Congo,cod,-2.32104,28.76081,2066,valley
+cod_tchi2_p1,Tchibinda,Democratic Republic of Congo,cod,-2.32487,28.75882,2057,valley
+cod_tchi2_p2,Tchibinda,Democratic Republic of Congo,cod,-2.32481,28.75889,2057,valley
+cod_tchi2_p3,Tchibinda,Democratic Republic of Congo,cod,-2.32473,28.75897,2054,valley
+cod_tchi2_p4,Tchibinda,Democratic Republic of Congo,cod,-2.32494,28.75862,2059,valley
+cod_tchi3_p1,Tchibinda,Democratic Republic of Congo,cod,-2.31756,28.7636,2011,valley
+cod_tchi3_p2,Tchibinda,Democratic Republic of Congo,cod,-2.31728,28.76383,2009,valley
+cod_tchi3_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3172,28.76398,2013,valley
+cod_wal1_p1,Ikoma,Democratic Republic of Congo,cod,-2.58479,28.71757,1701,valley
+cod_wal1_p2,Ikoma,Democratic Republic of Congo,cod,-2.58484,28.71759,1688,valley
+cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,valley
+cod_wal1_p4,Ikoma,Democratic Republic of Congo,cod,-2.58496,28.71771,1709,valley
+cod_wal1_p5,Ikoma,Democratic Republic of Congo,cod,-2.58495,28.71777,1709,valley
+cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,valley
+cod_wal2_p2,Ikoma,Democratic Republic of Congo,cod,-2.58588,28.71346,1705,valley
+cod_wal2_p3,Ikoma,Democratic Republic of Congo,cod,-2.58587,28.7134,1706,valley
+cod_wal2_p4,Ikoma,Democratic Republic of Congo,cod,-2.58588,28.71331,1705,valley
+cod_wal2_p5,Ikoma,Democratic Republic of Congo,cod,-2.58595,28.71328,1703,valley
+cod_wal3_p1,Ikoma,Democratic Republic of Congo,cod,-2.57585,28.71911,1753,valley
+cod_wal3_p2,Ikoma,Democratic Republic of Congo,cod,-2.57611,28.71969,1745,valley
+cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,valley
+cod_wal3_p4,Ikoma,Democratic Republic of Congo,cod,-2.57603,28.71967,1748,valley
+cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,valley
+cod_wal3_p6,Ikoma,Democratic Republic of Congo,cod,-2.57644,28.7202,1744,valley
+cod_wal3_p7,Ikoma,Democratic Republic of Congo,cod,-2.57767,28.72086,1773,valley
+uga_buja1_p1,Bujabara cell,Uganda,uga,0.55423,30.15071,1590,valley
+uga_buja1_p2,Bujabara cell,Uganda,uga,0.55464,30.15099,1596,valley
+uga_buja1_p3,Bujabara cell,Uganda,uga,0.55481,30.15099,1594,valley
+uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,valley
+uga_isu1_p1,Isule cell,Uganda,uga,0.60022,30.15868,1656,valley
+uga_isu1_p2,Isule cell,Uganda,uga,0.60033,30.15886,1659,valley
+uga_kyan1_p1,Kyanyawara,Uganda,uga,0.56687,30.33422,1486,valley
+uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,valley
+uga_kyan1_p3,Kyanyawara,Uganda,uga,0.56713,30.33401,1454,valley
+uga_kyan1_p4,Kyanyawara,Uganda,uga,0.56732,30.33395,1462,valley
+uga_mita1_p1,Mitandi cell,Uganda,uga,0.59542,30.15147,1750,valley
+uga_mita1_p2,Mitandi cell,Uganda,uga,0.59558,30.15164,1750,valley
+uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,valley
+uga_nyan1_p1,Nyanuango,Uganda,uga,0.59569,30.64418,1335,valley
+uga_nyan1_p2,Nyanuango,Uganda,uga,0.59556,30.64418,1343,valley
+uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,valley

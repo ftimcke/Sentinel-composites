@@ -1,0 +1,27 @@
+# User Input
+years = [“2000”, “2002”, “2005”]
+sensors: [“etm+”, “oli”]
+
+# Your Code to load the data and print the report for a given year 
+
+for y in years:
+	# create an empty raster collection for the year y
+
+(for s in sensors:) might be able to merge it with the next line
+
+	if s in sensors:
+		# code to load the data for a given year and sensor
+	 
+		else:
+			continue # if there is no data for this sensor on this year then continue to the next loop
+
+		# Store the data for sensors of a given year
+		# generate the yearly report
+
+
+Or the other way round
+for s in sensor:
+    if s == "":
+        continue # it skips to the next iteration
+    else:
+        # run your code
